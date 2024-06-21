@@ -1,5 +1,8 @@
 <h2>Simple Under Construction Page</h2>
 <hr/>
+<h6>Preview Halaman / Website :</h6>
+<img src="image/img-thumb.png">
+<hr/>
 <h4>Bahasa Pemrograman Yang Digunakan :</h4>
 <ul>
 <li>HTML</li>
