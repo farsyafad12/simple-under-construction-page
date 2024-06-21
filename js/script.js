@@ -1,4 +1,4 @@
-endDate = new Date("January 31, 2024 23:59:59").getTime();
+endDate = new Date("January 01, 2050 00:00:00").getTime();
 const x = setInterval(function () {
     const now = new Date().getTime();
     const distance = endDate - now;
