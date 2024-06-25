@@ -2,6 +2,7 @@
 <hr/>
 <h4>Preview Halaman / Website :</h4>
 <img src="image/img-thumb.png" style="border-radius: 18px;box-shadow: 0 0 5px 2px rgba(0, 0, 0, .75);">
+<p style="font-size: 14px;">Link Preview Template : <a href="https://simple-under-construction-page.vercel.app" target="_blank">Klik Disini ( Vercel Server )</a></p>
 <hr/>
 <h4>Bahasa Pemrograman Yang Digunakan :</h4>
 <ul>
