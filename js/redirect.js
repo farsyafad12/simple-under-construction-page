@@ -8,13 +8,13 @@ function startCountdown() {
         count--;
         if (count < 0) {
             clearInterval(interval);
-            timer.innerHTML = ". Jika Anda Tidak Dialihkan, <a href='/'>Klik Disini</a>";
+            timer.innerHTML = ". Jika Anda Tidak Dialihkan, <a href='https://yoursite.com'>Klik Disini</a>";
             redirect();
         }
     }, 1000);
 }
 
 function redirect() {
-    window.location.href = "https://yoursite.com";
+    // window.location.href = "https://yoursite.com";
 }
 startCountdown();

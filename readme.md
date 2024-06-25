@@ -16,6 +16,6 @@
 <li>File redirect.js Berfungsi Untuk Mengatur Timer Hitung Mundur Dan Link Tujuan Halaman Setelah Hitungan Mundur Selesai</li>
 <li>FIle script.js Berfungsi Untuk Mengatur Waktu Mundur Sampai Halaman Aslinya Selesai / Rilis</li>
 </ol>
-<p style="font-style: italic;font-weight: bold;margin-top: 25px;">Note : Jangan Lupa Hapus Komentar Pada File script.js</p>
+<p style="font-style: italic;font-weight: bold;margin-top: 25px;">Note : Jangan Lupa Hapus Komentar Pada File script.js Dan redirect.js</p>
 <hr/>
 <p style="font-family: monospace;font-weight: bold;letter-spacing: .75px;font-size: 13.5px;">Powered By Farsyafad Tech  |  Jangan Lupa Kasih Star Yaa</p>
