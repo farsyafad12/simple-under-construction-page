@@ -1,7 +1,7 @@
 <h2>Simple Under Construction Page</h2>
 <hr/>
-<h6>Preview Halaman / Website :</h6>
-<img src="image/img-thumb.png">
+<h4>Preview Halaman / Website :</h4>
+<img src="image/img-thumb.png" style="border-radius: 18px;box-shadow: 0 0 5px 2px rgba(0, 0, 0, .75);">
 <hr/>
 <h4>Bahasa Pemrograman Yang Digunakan :</h4>
 <ul>
@@ -12,9 +12,10 @@
 <hr/>
 <h4>Cara Menggunakan Template Ini :</h4>
 <ol>
-<li>Ubah File Javascript Pada Folder JS ( Redirect & Script.js )</li>
-<li>File Redirect.js Berfungsi Untuk Mengatur Timer Hitung Mundur Dan Link Tujuan Halaman Setelah Hitungan Mundur Selesai</li>
-<li>FIle Script.js Berfungsi Untuk Mengatur Waktu Mundur Sampai Halaman Aslinya Selesai / Rilis</li>
+<li>Ubah Dan Sesuaikan File Javascript Pada Folder JS ( Redirect & Script.js )</li>
+<li>File redirect.js Berfungsi Untuk Mengatur Timer Hitung Mundur Dan Link Tujuan Halaman Setelah Hitungan Mundur Selesai</li>
+<li>FIle script.js Berfungsi Untuk Mengatur Waktu Mundur Sampai Halaman Aslinya Selesai / Rilis</li>
 </ol>
+<p style="font-style: italic;font-weight: bold;margin-top: 25px;">Note : Jangan Lupa Hapus Komentar Pada File script.js</p>
 <hr/>
-<i>Powered By Farsyafad Tech</i>
+<p style="font-family: monospace;font-weight: bold;letter-spacing: .75px;font-size: 13.5px;">Powered By Farsyafad Tech  |  Jangan Lupa Kasih Star Yaa</p>

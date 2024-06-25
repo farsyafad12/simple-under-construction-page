@@ -1,5 +1,6 @@
 const timer = document.getElementById('countdown');
 timer.textContent = " dalam 7 detik";
+
 function startCountdown() {
     let count = 7;
     const interval = setInterval(() => {
@@ -8,11 +9,12 @@ function startCountdown() {
         if (count < 0) {
             clearInterval(interval);
             timer.innerHTML = ". Jika Anda Tidak Dialihkan, <a href='/'>Klik Disini</a>";
-            redirect()
+            redirect();
         }
     }, 1000);
 }
+
 function redirect() {
-    window.open("https://yoursite.com");
+    window.location.href = "https://yoursite.com";
 }
 startCountdown();
